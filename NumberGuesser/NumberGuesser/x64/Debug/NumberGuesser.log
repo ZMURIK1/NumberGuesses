@@ -1,0 +1,3 @@
+﻿  NumberGuesser.cpp
+C:\MyProjects\C++\projects\NumberGuesser\NumberGuesser\NumberGuesser.cpp(3,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  NumberGuesser.vcxproj -> C:\MyProjects\C++\projects\NumberGuesser\x64\Debug\NumberGuesser.exe
